@@ -1,0 +1,4 @@
+conf:
+  questionsUrl: http://localhost:8080/questions
+  answerUrl: http://localhost:8080/answer
+  question: What is the Capital of %s?.
